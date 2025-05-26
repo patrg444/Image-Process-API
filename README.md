@@ -4,33 +4,33 @@ A professional Image Processing API designed for deployment on Railway and monet
 
 ## Features
 
-### 🎯 Background Removal
+### Background Removal
 - Remove white backgrounds from images
 - Support for PNG and WebP output
 - Optional background color replacement
 
-### 🗜️ Image Compression
+###  Image Compression
 - Adjustable quality settings (1-100)
 - Maintains original format or converts
 - Optimized file sizes
 
-### 🔄 Format Conversion
+### Format Conversion
 - Support for JPEG, PNG, WebP, AVIF, TIFF, BMP
 - Quality control for lossy formats
 - Automatic optimization
 
-### ✂️ Image Transformation
+### Image Transformation
 - Resize with multiple fit options (cover, contain, fill, inside, outside)
 - Crop with precise coordinates
 - Rotate (0°, 90°, 180°, 270°)
 - Flip and flop operations
 
-### 💧 Watermarking
+### Watermarking
 - Text watermarks with customizable positioning
 - Adjustable opacity, font size, and colors
 - 9 position presets
 
-### 🚀 AI Enhancement
+### AI Enhancement
 - Image upscaling (1x-4x)
 - Noise reduction
 - Sharpening filters
